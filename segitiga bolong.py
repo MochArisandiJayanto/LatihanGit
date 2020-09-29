@@ -1,3 +1,5 @@
+#Segita Bolong Code Python
+
 string = ""
 bar = 1
 
